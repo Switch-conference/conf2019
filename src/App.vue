@@ -13,7 +13,7 @@
             </div>
           </div>
           <!-- Columns End -->
-          <a class="button is-large custom-button">Call For Sponsors</a>
+          <a href="/SWITCH_sponsorship_packages.pdf" target="_blank" class="button is-large custom-button">Call For Sponsors</a>
         </div>
       </div>
     </section>
