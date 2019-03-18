@@ -1,0 +1,21 @@
+@import '~bulma/sass/utilities/initial-variables';
+@import '~bulma/sass/utilities/functions';
+// customize styles
+$black: #333;
+$spongeBobYellow : #fff23a;
+$matteYellow: #fff23a;
+$blueish: #27418f;
+$pinkish: #c65d56;
+$reddish: #e83e39;
+
+$family-sans-serif: "Lato", sans-serif;
+
+@import '~bulma';
+
+
+.hero {
+    height: 100vh;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
