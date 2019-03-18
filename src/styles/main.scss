@@ -12,10 +12,6 @@ $family-sans-serif: "Lato", sans-serif;
 
 @import '~bulma';
 
-
-.hero {
-    height: 100vh;
-    display: flex;
-    align-content: center;
-    justify-content: center;
+body{
+    font-family:  $family-sans-serif;
 }
